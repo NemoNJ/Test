@@ -1,4 +1,4 @@
-# Test
+# LAB COM 6
 Nemo Success
 206112 Lab 6
 ชื่อ  : นาย จิรายุ ฐิติพรรณกุล
